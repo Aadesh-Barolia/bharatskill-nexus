@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+node_modules/
+**/node_modules/
+data/
+**/data/
+.git/
+.vercel/
+test-results/
+playwright-report/
+work/
+*.log
